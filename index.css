@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+
+:root {
+  --color-chrome: #4285F4;
+  --color-safari: #29A8E0;
+  --color-firefox: #FF7139;
+  --color-edge: #0078D4;
+  --color-other: #A0A0A0;
+  --chart-1: #4285F4;
+  --chart-2: #29A8E0;
+  --chart-3: #FF7139;
+  --chart-4: #0078D4;
+  --chart-5: #A0A0A0;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
